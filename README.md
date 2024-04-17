@@ -7,5 +7,5 @@ Quickode Cli is a CLI tool designed to streamline the setup of React Native proj
 Install Quickode Cli globally using npm to use it from anywhere on your command line:
 
 ```bash
-npm install -g Quickode Cli
+npm install -g quickode-cli
 ```
