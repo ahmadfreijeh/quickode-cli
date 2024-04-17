@@ -1,6 +1,6 @@
 {
   "name": "quickode-cli",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "A CLI tool for initializing React Native projects with preconfigured templates.",
   "type": "module",
   "bin": {
