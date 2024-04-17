@@ -55,7 +55,7 @@ function createProject() {
         shell.exit(1);
       } else {
         console.log(
-          `Repository cloned successfully. Checking contents of ${projectName}...`
+          `Repository cloned successfully. cd into ${projectName}...`
         );
         shell.cd(projectName);
         if (!shell.test("-f", "package.json")) {
