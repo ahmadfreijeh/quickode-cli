@@ -1,0 +1,31 @@
+{
+  "name": "quickode-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for initializing React Native projects with preconfigured templates.",
+  "type": "module",
+  "bin": {
+    "quickode": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/your-cli-name.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "cli",
+    "starter-kit",
+    "project-template"
+  ],
+  "author": "Ahmad Freijeh ahmadbfreijeh@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "commander": "^12.0.0",
+    "inquirer": "^9.2.19",
+    "shelljs": "^0.8.5"
+  }
+}
