@@ -12,10 +12,10 @@ npm install -g quickode-cli
 
 ## Usage
 
-After installing Quikode, you can start a new project by running:
+After installing quickode, you can start a new project by running:
 
 ```bash
-quikode create
+quickode create
 ```
 
 You will be prompted to enter the project name and select a configuration template.
@@ -27,7 +27,7 @@ Available templates include:
 
 ## Commands
 
-quikode create: Initiates a new project setup. You'll be prompted to enter the project name and select a template.
+quickode create: Initiates a new project setup. You'll be prompted to enter the project name and select a template.
 
 ## Features
 
@@ -45,6 +45,6 @@ quikode create: Initiates a new project setup. You'll be prompted to enter the p
 
 ## Support
 
-If you encounter any problems or have suggestions for Quikode, please submit an issue on the GitHub project page or contact the maintainer at ahmadbfreijeh@gmail.com
+If you encounter any problems or have suggestions for quickode, please submit an issue on the GitHub project page or contact the maintainer at ahmadbfreijeh@gmail.com
 
-**Thank you for using Quikode!**
+**Thank you for using quickode!**
