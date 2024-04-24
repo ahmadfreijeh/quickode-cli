@@ -46,7 +46,7 @@ function createProject() {
         message: "Select the template configuration:",
         choices: [
           { name: "Empty (Basic Setup)", value: "default" },
-          { name: "With Components (Feature-rich)", value: "with-components" },
+          // { name: "With Components (Feature-rich)", value: "with-components" },
         ],
       },
     ])
