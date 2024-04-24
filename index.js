@@ -45,7 +45,7 @@ function createProject() {
         name: "branch",
         message: "Select the template configuration:",
         choices: [
-          { name: "Empty (Basic Setup)", value: "default" },
+          { name: "Empty (Basic Setup)", value: "main" },
           // { name: "With Components (Feature-rich)", value: "with-components" },
         ],
       },
